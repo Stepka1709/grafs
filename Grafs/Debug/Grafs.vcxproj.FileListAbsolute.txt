@@ -1,0 +1,2 @@
+C:\Codes\C++\Grafs\Debug\Grafs.exe
+C:\Codes\C++\Grafs\Debug\Grafs.pdb
